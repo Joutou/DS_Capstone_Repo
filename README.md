@@ -1,2 +1,2 @@
 # DS_Capstone_Repo
-# It's a markdown file in this repository
+# It's a repository for DS Capstone Assignement
